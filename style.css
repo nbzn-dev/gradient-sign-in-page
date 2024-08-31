@@ -111,9 +111,9 @@ section span:hover{
     font-size: 1em;
 }
 
-.sigin .content .inputBox .form i{
+.sigin .content .form .inputBox i {
     position: absolute;
-    left: 0
+    left: 0;
     padding: 15px 10px;
     font-style: normal;
     color: #aaa;
